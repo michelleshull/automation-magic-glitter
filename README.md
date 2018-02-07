@@ -1,2 +1,2 @@
 # automation-magic-glitter
-Automated test case code exported from Ghost Inspector which can be imported into Selenium. 
+Collection of automated test cases to confirm functionality of search and adding to cart meet requirements.  
